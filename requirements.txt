@@ -7,3 +7,4 @@ lxml
 pydantic
 openai-agents==0.0.7
 md2pdf
+zipp>=3.19.1 # not directly required, pinned by Snyk to avoid a vulnerability
